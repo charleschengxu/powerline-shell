@@ -1,0 +1,20 @@
+{
+  "segments": [
+    "virtual_env", 
+    "hostname", 
+    "cwd", 
+    "git", 
+    "exit_code",
+    "hg", 
+    "jobs", 
+    "newline",
+    "root"
+  ],
+  "cwd": {
+  	"mode": "plain"
+  },
+  "theme": "~/Documents/repo/powerline-shell/powerline_shell/themes/myTheme.py",
+  "vcs": {
+    "show_symbol": true
+  }
+}
