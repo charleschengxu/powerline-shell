@@ -7,3 +7,4 @@ class Color(DefaultColor):
     HOSTNAME_BG = 74
     PATH_FG = 15
     PATH_BG = 239
+    CMD_PASSED_BG = 239
